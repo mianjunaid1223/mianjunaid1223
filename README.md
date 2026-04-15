@@ -1,19 +1,16 @@
 # Junaid
 CS student. Building AI-powered tools and figuring out what it takes to move them from prototype to production.
 
-
----
+Currently working on [Venesa](link), a Windows AI assistant that turns natural language into system workflows.
 
 ## Stack
 
-**Languages** — JavaScript, Python, C  
-**Frontend** — React, Expo, Tailwind CSS  
-**Backend** — Node.js, Django, Flask, FastAPI  
-**AI/ML** — PyTorch, OpenCV, scikit-learn  
-**Infra** — Supabase, MongoDB, Docker, Google Cloud  
-**Tools** — Git
-
----
+**Languages:** JavaScript, Python, C  
+**Frontend:** React, Expo, Tailwind CSS  
+**Backend:** Node.js, Django, Flask, FastAPI  
+**AI/ML:** PyTorch, OpenCV, scikit-learn  
+**Infra:** Supabase, MongoDB, Docker, Google Cloud  
+**Tools:** Git
 
 ## Connect
 
