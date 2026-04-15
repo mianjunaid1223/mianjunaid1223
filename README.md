@@ -1,16 +1,20 @@
-## Hi there 👋
+Full Stack Developer
 
-<!--
-**mianjunaid1223/mianjunaid1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤝 Open to collaboration
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** JavaScript, Python, C <br>
+**Frontend:** Tailwind CSS, Vite <br>
+**Frameworks:** Expo, React <br>
+**Backend:** Node.js, Flask, FastAPI, Django <br>
+**AI/ML:** PyTorch, OpenCV, scikit-learn <br>
+**Cloud & DevOps:** Google cloud, Supabase, MongoDB, Docker <br>
+**Tools:** Git, Github
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](Junaid:mianjunaid2312@mail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MianJunaid60548) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/that_junaid_)
+
+## 
+![Profile views](https://komarev.com/ghpvc/?username=your-github-mianjunaid1223)
