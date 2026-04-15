@@ -5,7 +5,7 @@ Full Stack Developer
 ## Tech Stack
 
 **Languages:** JavaScript, Python, C <br>
-**Frontend:** Tailwind CSS, Vite <br>
+**Frontend:** Tailwind CSS <br>
 **Frameworks:** Expo, React <br>
 **Backend:** Node.js, Flask, FastAPI, Django <br>
 **AI/ML:** PyTorch, OpenCV, scikit-learn <br>
