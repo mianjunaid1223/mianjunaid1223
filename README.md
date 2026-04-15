@@ -7,43 +7,58 @@ CS student building AI-powered tools and figuring out what it takes to ship them
 
 ### Tech Snapshot
 ```mermaid
+%%{init: {
+  'theme': 'dark',
+  'themeVariables': {
+    'cScale0': '#5F8DEE',
+    'cScale1': '#E57373',
+    'cScale2': '#F6C85F',
+    'cScale3': '#66BB6A',
+    'cScale4': '#7E57C2',
+    'cScaleLabel0': '#FFFFFF',
+    'cScaleLabel1': '#FFFFFF',
+    'cScaleLabel2': '#1A1A1A',
+    'cScaleLabel3': '#0F1A12',
+    'cScaleLabel4': '#FFFFFF',
+    'pie1': '#5F8DEE',
+    'pie2': '#E57373',
+    'pie3': '#F6C85F',
+    'pie4': '#66BB6A',
+    'pie5': '#7E57C2',
+    'mindmapRootFill': '#ffff',
+    'mindmapRootStroke': '#fff',
+    'mindmapRootTextColor': '#E8EAED',
+    'mindmapNodeFill': '#2B2C2F',
+    'mindmapNodeStroke': '#3C4043',
+    'mindmapNodeTextColor': '#E8EAED'
+  }
+}}%%
 mindmap
   root((Junaid))
-    ((Languages))
+    Languages
       Python
       JavaScript
       TypeScript
-      C
-      C++
-    ((Frontend))
-      React
-      Expo
-      Tailwind CSS
+      C / C++
+      Bash
+    Frontend
+      React & Expo
       Next.js
-    ((Backend))
-      Node.js
-      Express
-      Django
-      Flask
+      Tailwind CSS
+    Backend
+      Node.js & Express
+      Django & Flask
       FastAPI
-    ((Desktop))
-      Electron
-    ((AI & ML))
+    AI and ML
       LLM Integration
-      Speech APIs
-      Wake Word Detection
-      PyTorch
-      OpenCV
-      scikit-learn
-    ((Databases))
-      MongoDB
-      Supabase
-      SQL
-    ((DevOps & Cloud))
-      Docker
-      Git
+      Speech & Audio APIs
+      PyTorch & OpenCV
+    Infrastructure
+      Docker & Git
+      Supabase & MongoDB
       Google Cloud
 ```
+<br>
 
 ##  Connect
 
