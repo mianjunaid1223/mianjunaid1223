@@ -5,17 +5,45 @@ CS student building AI-powered tools and figuring out what it takes to ship them
 
 <br>
 
-##  Stack
-
-| Area | Technologies |
-|------|-------------|
-| Languages | JavaScript, Python, C |
-| Frontend | React, Expo, Tailwind CSS |
-| Backend | Node.js, Django, Flask, FastAPI |
-| AI/ML | LLM Integration, Speech APIs, PyTorch, OpenCV, scikit-learn |
-| Infra | Supabase, MongoDB, Docker, Google Cloud |
-| Tools | Git |
-<br>
+### Tech Snapshot
+```mermaid
+mindmap
+  root((Junaid))
+    ((Languages))
+      Python
+      JavaScript
+      TypeScript
+      C
+      C++
+    ((Frontend))
+      React
+      Expo
+      Tailwind CSS
+      Next.js
+    ((Backend))
+      Node.js
+      Express
+      Django
+      Flask
+      FastAPI
+    ((Desktop))
+      Electron
+    ((AI & ML))
+      LLM Integration
+      Speech APIs
+      Wake Word Detection
+      PyTorch
+      OpenCV
+      scikit-learn
+    ((Databases))
+      MongoDB
+      Supabase
+      SQL
+    ((DevOps & Cloud))
+      Docker
+      Git
+      Google Cloud
+```
 
 ##  Connect
 
