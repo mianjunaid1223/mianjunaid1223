@@ -40,11 +40,12 @@ mindmap
       JavaScript
       TypeScript
       C / C++
-      Bash
+      
     Frontend
       React & Expo
       Next.js
       Tailwind CSS
+      Electron 
     Backend
       Node.js & Express
       Django & Flask
