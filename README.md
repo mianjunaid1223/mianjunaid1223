@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/mianjunaid1223"><img src="https://img.shields.io/badge/GitHub-Profile-1e3a8a?style=for-the-badge&logo=github" /></a>
   <a href="mailto:mianjunaid2312@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Profile-1d4ed8?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/thatjunaid"><img src="https://img.shields.io/badge/LinkedIn-Profile-1d4ed8?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 <p align="center">
