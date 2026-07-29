@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CS-Student-38bdf8?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Pakistan%20(Remote)-94a3b8?style=for-the-badge&logo=googlemaps&logoColor=red" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Remote%20Roles-1e293b?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -33,87 +34,63 @@
   <img src="https://img.shields.io/github/stars/mianjunaid1223?style=for-the-badge&color=1e293b" />
 </p>
 
+## Profile
+
+Full stack developer and CS student specializing in AI/ML, four years into teaching myself to build software. I build desktop assistants, writing tools, and web apps where an LLM handles real work inside the product, and I care about the parts that show up once real people are using it: latency, reliability, and what happens when the model gets something wrong.
+
 ---
 
-## About
+## Core Focus
 
-Software engineering student focused on scalable systems, backend architecture, and production-grade full-stack development. Strong interest in system design, performance engineering, and clean software architecture.
-
-**Open To:** Internships • Remote Work • Open Source • Startup Collaboration
+- Full Stack Development
+- Applied AI / LLM Integration
+- Desktop Applications (Electron)
+- System Design
+- API & Backend Architecture
 
 ---
 
 ## Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-334155?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38bdf8)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=38bdf8)
+![Python](https://img.shields.io/badge/Python-334155?style=for-the-badge&logo=python&logoColor=38bdf8)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-38bdf8?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-94a3b8?style=for-the-badge&logo=nextdotjs)
 
-### Backend & Databases
+### Backend & Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-334155?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb)
+![Django](https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-1e293b?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST-API_Design-0f172a?style=for-the-badge)
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git)
+### AI & Desktop
+![LLM Integration](https://img.shields.io/badge/LLM-Integration-0ea5e9?style=for-the-badge&logo=openai&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-1e293b?style=for-the-badge&logo=electron)
+
+### Cloud & Tools
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0ea5e9?style=for-the-badge&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-38bdf8?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-334155?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git)
 
 ---
 
-
-## Featured Projects
-
-<details>
-<summary><b>Full Stack SaaS Platform</b></summary>
-
-| Stack | Scale | Performance | Security | Impact |
-|------|------|-------------|----------|--------|
-| MERN | Medium | Optimized APIs | JWT Auth | High |
-
-Scalable SaaS system with authentication, modular architecture, and backend optimization.
-</details>
-
----
-
-<details>
-<summary><b>Embedded ESP32 System</b></summary>
-
-| Stack | Scale | Performance | Security | Impact |
-|------|------|-------------|----------|--------|
-| C / Bare Metal | Small | Real-time | Low-level control | Educational |
-
-Low-level hardware system focused on GPIO control and embedded architecture.
-</details>
-
----
-
-<details>
-<summary><b>Backend API Framework</b></summary>
-
-| Stack | Scale | Performance | Security | Impact |
-|------|------|-------------|----------|--------|
-| Node.js | Medium | High throughput | JWT + Middleware | High |
-
-Modular backend API system built for scalable services.
-</details>
-
----
 
 ## Experience
 
-**Full Stack Developer (Independent)**  
+**Full Stack Developer (Independent)**
 Remote • 2024 – Present
 
-- Built production-grade full-stack applications
-- Designed scalable backend systems and APIs
-- Worked on embedded systems using C
-- Implemented authentication and database architecture
+- Built and shipped AI-native desktop tools (Kefi, Venesa) integrating LLM APIs for reasoning, voice, and writing assistance
+- Designed scalable backend systems and REST APIs
+- Implemented authentication, database architecture, and offline-first components
+- Built full stack web products with React, Next.js, and Node/Express
 
 ---
 
@@ -123,24 +100,11 @@ Remote • 2024 – Present
 
 | Recognition | Details |
 |-------------|---------|
-| Self-Taught Engineer | Built real-world scalable projects |
-| Embedded Systems Learner | Low-level hardware programming |
+| Self-Taught Engineer | 5 years building real-world, shipped projects |
+| Shipped AI Products | Kefi and Venesa, both in active use |
 | Open Source Contributor | Early-stage contributions |
 
 </div>
-
----
-
-## Certifications
-
-### AWS
-![AWS](https://img.shields.io/badge/AWS-Cloud-0ea5e9?style=for-the-badge&logo=amazonaws)
-
-### Cisco
-![Cisco](https://img.shields.io/badge/Cisco-Networking-94a3b8?style=for-the-badge&logo=cisco)
-
-### NPTEL
-![NPTEL](https://img.shields.io/badge/NPTEL-Learning-1e293b?style=for-the-badge)
 
 ---
 
@@ -150,52 +114,6 @@ Remote • 2024 – Present
 ![HackerRank](https://img.shields.io/badge/HackerRank-94a3b8?style=for-the-badge&logo=hackerrank)
 ![CodeChef](https://img.shields.io/badge/CodeChef-1e293b?style=for-the-badge&logo=codechef)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-334155?style=for-the-badge&logo=geeksforgeeks)
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mianjunaid1223&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mianjunaid1223&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mianjunaid1223&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## GitHub Analytics (Performance Overview)
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Commits-Consistent_Activity-38bdf8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Code-Production_Grade-94a3b8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Systems_&_Full_Stack-0ea5e9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Engineering-Execution_Mindset-1e293b?style=for-the-badge" />
-
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mianjunaid1223&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mianjunaid1223&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mianjunaid1223&theme=github_dark&utcOffset=5" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mianjunaid1223&theme=onedark&no-frame=true" />
-</p>
 
 ---
 
@@ -224,15 +142,16 @@ Learning:
   - Machine Learning Mathematics
 
 Building:
-  - Scalable SaaS Applications
-  - API Systems
-  - Embedded Systems (ESP32)
+  - AI-native desktop tools (Electron + LLMs)
+  - Full stack web applications
+  - Scalable API systems
 
 Exploring:
-  - AI Integration in Web Apps
-  - Low-level Programming
+  - LLM integration patterns
+  - Low-level programming
 
 Open To:
   - Internships
   - Remote Opportunities
   - Open Source Collaboration
+```
