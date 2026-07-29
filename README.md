@@ -66,16 +66,6 @@ Software engineering student focused on scalable systems, backend architecture, 
 
 ---
 
-## AI / ML Expertise
-
-| Domain | Level | Focus |
-|--------|------|-------|
-| Linear Algebra | Intermediate | ML foundations |
-| Probability | Intermediate | Statistical reasoning |
-| Neural Networks | Learning | Deep learning concepts |
-| Data Analysis | Basic | Python & NumPy |
-
----
 
 ## Featured Projects
 
