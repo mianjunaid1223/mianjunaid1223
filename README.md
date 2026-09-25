@@ -100,6 +100,8 @@ Remote • 2024 – Present
 
 | Recognition | Details |
 |-------------|---------|
+| NASA Space Apps Challenge Hackathon Winner | Recognized for developing an innovative solution during the NASA Space Apps Challenge hackathon |
+| Best Problem Solver Award | Awarded for outstanding analytical thinking and creative problem-solving skills |
 | Self-Taught Engineer | 5 years building real-world, shipped projects |
 | Shipped AI Products | Many of my apps are in active use as internal tools for companies |
 | Open Source Contributor | Early-stage contributions |
