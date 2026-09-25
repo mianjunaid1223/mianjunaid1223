@@ -101,7 +101,7 @@ Remote • 2024 – Present
 | Recognition | Details |
 |-------------|---------|
 | Self-Taught Engineer | 5 years building real-world, shipped projects |
-| Shipped AI Products | Kefi and Venesa, both in active use |
+| Shipped AI Products | Many of my apps are in active use as internal tools for companies |
 | Open Source Contributor | Early-stage contributions |
 
 </div>
