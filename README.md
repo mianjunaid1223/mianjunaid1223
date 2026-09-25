@@ -1,157 +1,50 @@
-<!-- ===================== HEADER ===================== -->
+# Mian Junaid (@mianjunaid1223)
 
-<h1 align="center">Hi, I'm Junaid</h1>
+Full-stack engineer, AI/ML developer, and open-source creator building autonomous systems, web frameworks, and intelligent developer tooling.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1f2937,100:334155&height=180&section=header" />
-</p>
-
-<p align="center">
-  <b>Full Stack Software Engineer</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CS-Student-38bdf8?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Pakistan%20(Remote)-94a3b8?style=for-the-badge&logo=googlemaps&logoColor=red" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Remote%20Roles-1e293b?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mianjunaid1223">
-    <img src="https://img.shields.io/badge/GitHub-Profile-1e293b?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:mianjunaid2312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thatjunaid">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mianjunaid1223&style=for-the-badge&color=38bdf8" />
-  <img src="https://img.shields.io/github/followers/mianjunaid1223?style=for-the-badge&color=94a3b8" />
-  <img src="https://img.shields.io/github/stars/mianjunaid1223?style=for-the-badge&color=1e293b" />
-</p>
-
-## Profile
-
-Full stack developer and CS student specializing in AI/ML, four years into teaching myself to build software. I build desktop assistants, writing tools, and web apps where an LLM handles real work inside the product, and I care about the parts that show up once real people are using it: latency, reliability, and what happens when the model gets something wrong.
-
----
-
-## Core Focus
-
-- Full Stack Development
-- Applied AI / LLM Integration
-- Desktop Applications (Electron)
-- System Design
-- API & Backend Architecture
-
----
-
-## Tech Stack
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38bdf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=38bdf8)
-![Python](https://img.shields.io/badge/Python-334155?style=for-the-badge&logo=python&logoColor=38bdf8)
-
-### Frontend
-![React](https://img.shields.io/badge/React-38bdf8?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-94a3b8?style=for-the-badge&logo=nextdotjs)
-
-### Backend & Architecture
-![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-334155?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-1e293b?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=for-the-badge&logo=fastapi)
-![REST API](https://img.shields.io/badge/REST-API_Design-0f172a?style=for-the-badge)
-
-### AI & Desktop
-![LLM Integration](https://img.shields.io/badge/LLM-Integration-0ea5e9?style=for-the-badge&logo=openai&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-1e293b?style=for-the-badge&logo=electron)
-
-### Cloud & Tools
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0ea5e9?style=for-the-badge&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-38bdf8?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-334155?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git)
-
----
-
-
-## Experience
-
-**Full Stack Developer (Independent)**
-Remote • 2024 – Present
-
-- Built and shipped AI-native desktop tools (Kefi, Venesa) integrating LLM APIs for reasoning, voice, and writing assistance
-- Designed scalable backend systems and REST APIs
-- Implemented authentication, database architecture, and offline-first components
-- Built full stack web products with React, Next.js, and Node/Express
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| Self-Taught Engineer | 5 years building real-world, shipped projects |
-| Shipped AI Products | Kefi and Venesa, both in active use |
-| Open Source Contributor | Early-stage contributions |
-
-</div>
-
----
-
-## Coding Profiles
-
-![LeetCode](https://img.shields.io/badge/LeetCode-38bdf8?style=for-the-badge&logo=leetcode)
-![HackerRank](https://img.shields.io/badge/HackerRank-94a3b8?style=for-the-badge&logo=hackerrank)
-![CodeChef](https://img.shields.io/badge/CodeChef-1e293b?style=for-the-badge&logo=codechef)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-334155?style=for-the-badge&logo=geeksforgeeks)
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mianjunaid1223&theme=github-dark" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - System Design
-  - Advanced Backend Architecture
-  - Machine Learning Mathematics
-
-Building:
-  - AI-native desktop tools (Electron + LLMs)
-  - Full stack web applications
-  - Scalable API systems
-
-Exploring:
-  - LLM integration patterns
-  - Low-level programming
-
-Open To:
-  - Internships
-  - Remote Opportunities
-  - Open Source Collaboration
 ```
++-----------------------------------------------------------------------------------------+
+|                                    Technical Portfolio                                  |
+|                                                                                         |
+|   Autonomous Systems & AI           Developer Tooling & Frameworks  Full-Stack & Web    |
+|   - FlyBrain (Drone Swarms)         - PyReact (Python Web Engine)   - StartupLink       |
+|   - NeuralNetwork (From Scratch)    - JD-CDN (Procedural Canvas)    - EdlioX            |
+|   - Deep Research Agent             - cpp-ASSISTANT (Win32 Console) - DeltaClimate      |
+|   - Gemini Vision Assistant         - Venesa Platform & Plugins     - Turbolancer       |
+|   - YouTube Video Automator                                         - EcoSync (NASA)    |
++-----------------------------------------------------------------------------------------+
+```
+
+## Featured Open-Source Projects
+
+### Autonomous Systems and Artificial Intelligence
+
+- [FlyBrain](https://github.com/mianjunaid1223/FlyBrain): Tactical drone swarm operating system implementing dual-brain architecture (Reflex Sensorimotor vs Cognitive Mission Planning) with synthetic sensor telemetry and distributed consensus.
+- [NeuralNetwork](https://github.com/mianjunaid1223/NeuralNetwork): Deep learning fundamentals implemented from scratch in pure Python with mathematical backpropagation calculus, custom tokenizers, and native C moving particle simulations.
+- [Deep Research Agent](https://github.com/mianjunaid1223/Deep_Research_Agent): Autonomous research orchestration combining LangChain Google GenAI query expansion, BeautifulSoup web scraping with exponential backoff, and LiteLLM multi-model synthesis.
+- [Gemini Vision](https://github.com/mianjunaid1223/gemini-vision): Real-time browser-based computer vision and voice dialogue assistant integrating WebRTC webcam streams, Web Speech recognition, and Gemini multimodal reasoning.
+- [YouTube Short-Form Video Generator](https://github.com/mianjunaid1223/YouTube-Short-form-video-gernator): Distributed content pipeline automating video production via FastAPI, Celery, Redis, Pexels API, ElevenLabs TTS, and FFmpeg subtitle burning.
+
+### Developer Frameworks and Systems Programming
+
+- [PyReact](https://github.com/mianjunaid1223/PyReact): Python-based web development framework enabling developers to construct reactive web interfaces using React-like component abstractions and state hooks.
+- [JD-CDN](https://github.com/mianjunaid1223/cdn): Zero-dependency declarative animated canvas library with 8 procedural visualizers, color token parsing, and MutationObserver lifecycle management.
+- [cpp-ASSISTANT](https://github.com/mianjunaid1223/cpp-ASSISTANT): Win32 desktop console assistant in modern C++ utilizing native Windows subsystem APIs, stream tokenization, and algebraic parsing engines.
+- [Venesa](https://github.com/mianjunaid1223/Venesa) & [venesa-capabilities](https://github.com/mianjunaid1223/venesa-capabilities): Extensible desktop intelligence platform with modular plugin ecosystem and community capability packs.
+
+### Full-Stack Applications and Platforms
+
+- [EdlioX](https://github.com/mianjunaid1223/EdlioX): Educational resource marketplace and forum ecosystem built with Flask, MongoDB, Stripe Connect creator payouts, AWS S3 storage, and Gemini AI.
+- [StartupLink](https://github.com/mianjunaid1223/StartupLink): Professional founder networking platform built with Next.js 14 App Router, NextAuth, MongoDB, Mongoose, and Gemini 2.0 Flash conversation suggestions.
+- [Turbolancer](https://github.com/mianjunaid1223/Turbolancer): Freelance services platform featuring real-time WebSocket chatrooms, AES-128 cryptographic security primitives, and Gemini AI proposal optimization.
+- [DeltaClimate](https://github.com/mianjunaid1223/DeltaClimate): Climate data exploration and supply chain greenhouse gas factor modeling platform built with PyReact, FastAPI, and Gemini 1.5 Flash.
+- [EcoSync](https://github.com/mianjunaid1223/EcoSync): NASA Space Apps Challenge planetary monitoring dashboard utilizing Deck.gl GPU layers, NASA POWER satellite telemetry, and Express.js.
+- [Bachpan Store](https://github.com/mianjunaid1223/Bachpan-Store): Multi-application retail platform featuring Next.js storefront, administrative portal, and REST API services.
+
+## Core Technical Competencies
+
+- Languages: Python, C++, JavaScript (ES6+), TypeScript, C, HTML5, CSS3, SQL
+- Machine Learning & AI: Neural Network Architecture, Mathematical Backprop, Google Gemini API, LangChain, LiteLLM, Multimodal Vision
+- Frameworks & Libraries: Next.js, React, FastAPI, Flask, Socket.IO, PyReact, Tailwind CSS, Bootstrap, Deck.gl, ReportLab
+- Databases & Storage: MongoDB Atlas, Mongoose, SQLite, AWS S3, Redis
+- Systems & DevOps: Git, Win32 APIs, Docker, Docker Compose, Celery Distributed Queues, FFmpeg, Bash, PowerShell
