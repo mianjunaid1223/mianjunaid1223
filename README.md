@@ -119,13 +119,6 @@ Remote • 2024 – Present
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mianjunaid1223&theme=github-dark" />
-</p>
-
----
 
 ## Contribution Snake
 
